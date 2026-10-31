@@ -159,7 +159,7 @@ AuvyronEngine is in active development. Bug reports, reproducible build issues, 
 
 The newly developed AuvyronEngine source is distributed under the **MIT License**. See [`LICENSE`](LICENSE).
 
-Third-party dependencies retain their own licenses. The archived `legacy_eldermyre/` directory is **reference material** and is **not automatically covered by the engine's MIT license**; review ownership and redistribution rights before publishing it.
+Third-party dependencies retain their own licenses.
 
 ---
 
